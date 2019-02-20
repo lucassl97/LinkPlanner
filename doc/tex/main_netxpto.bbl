@@ -1,0 +1,422 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Johnston17}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \verb{urlraw}
+      \verb https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc
+      \endverb
+      \verb{url}
+      \verb https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc
+      \endverb
+    \endentry
+    \entry{Gaspar18}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \verb{urlraw}
+      \verb https://www.boost.org/doc/libs/1_68_0/doc/html/circular_buffer.html
+      \endverb
+      \verb{url}
+      \verb https://www.boost.org/doc/libs/1_68_0/doc/html/circular_buffer.html
+      \endverb
+    \endentry
+    \entry{Guntheroth18}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \verb{urlraw}
+      \verb https://www.codeproject.com/Articles/1185449/Performance-of-a-Circular-Buffer-vs-Vector-Deque-a
+      \endverb
+      \verb{url}
+      \verb https://www.codeproject.com/Articles/1185449/Performance-of-a-Circular-Buffer-vs-Vector-Deque-a
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global}
+    \entry{NPTEL}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{ National Programme on Technology Enhanced Learning (NPTEL) :: Electronics {\&} Communication Engineering : Optical communications}}
+      \verb{urlraw}
+      \verb https://nptel.ac.in/courses/117104127/5
+      \endverb
+      \verb{url}
+      \verb https://nptel.ac.in/courses/117104127/5
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{none/global//global/global}
+    \entry{Rao2010a}{book}{}
+      \name{author}{3}{}{%
+        {{hash=b9c69864095d3db4630db2d09d60d2f3}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={K.\bibnamedelimi Ramamohan\bibnamedelimb (Kamisetty\bibnamedelima Ramamohan)},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f54e3c13a9431ab86f723c67ce18ad56}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=63ca74c6be1e1386f86f8019bec6ae6c}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d839650ea87ee6dd0d270b0692b669f5}
+      \strng{fullhash}{d839650ea87ee6dd0d270b0692b669f5}
+      \strng{bibnamehash}{d839650ea87ee6dd0d270b0692b669f5}
+      \strng{authorbibnamehash}{d839650ea87ee6dd0d270b0692b669f5}
+      \strng{authornamehash}{d839650ea87ee6dd0d270b0692b669f5}
+      \strng{authorfullhash}{d839650ea87ee6dd0d270b0692b669f5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fast Fourier Transform - Algorithms and Applications presents an introduction to the principles of the fast Fourier transform (FFT). It covers FFTs, frequency domain filtering, and applications to video and audio signal processing. As fields like communications, speech and image processing, and related areas are rapidly developing, the FFT as one of the essential parts in digital signal processing has been widely used. Thus there is a pressing need from instructors and students for a book dealing with the latest FFT topics. Fast Fourier Transform - Algorithms and Applications provides a thorough and detailed explanation of important or up-to-date FFTs. It also has adopted modern approaches like MATLAB examples and projects for better understanding of diverse FFTs. Fast Fourier Transform - Algorithms and Applications is designed for senior undergraduate and graduate students, faculty, engineers, and scientists in the field, and self-learners to understand FFTs and directly apply them to their fields, efficiently. It is designed to be both a text and a reference. Thus examples, projects and problems all tied with MATLAB, are provided for grasping the concepts concretely. It also includes references to books and review papers and lists of applications, hardware/software, and useful websites. By including many figures, tables, bock diagrams and graphs, this book helps the reader understand the concepts of fast algorithms readily and intuitively. It provides new MATLAB functions and MATLAB source codes. The material in Fast Fourier Transform - Algorithms and Applications is presented without assuming any prior knowledge of FFT. This book is for any professional who wants to have a basic understanding of the latest developments in and applications of FFT. It provides a good reference for any engineer planning to work in this field, either in basic implementation or in research and development.}
+      \field{isbn}{9781402066290}
+      \field{title}{{Fast Fourier transform : algorithms and applications}}
+      \field{year}{2010}
+      \field{pages}{423}
+      \range{pages}{1}
+    \endentry
+    \entry{Chu2000}{book}{}
+      \name{author}{2}{}{%
+        {{hash=cf9f18675ca92161a63d8b0b00d39076}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Eleanor\bibnamedelima Chin-hwa},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinithyphendelim h\bibinitperiod}}}%
+        {{hash=1ee225cb3490975a4303696bf7ff9897}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={Alan.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{aa38810153646a3f407b8e96d6f9140f}
+      \strng{fullhash}{aa38810153646a3f407b8e96d6f9140f}
+      \strng{bibnamehash}{aa38810153646a3f407b8e96d6f9140f}
+      \strng{authorbibnamehash}{aa38810153646a3f407b8e96d6f9140f}
+      \strng{authornamehash}{aa38810153646a3f407b8e96d6f9140f}
+      \strng{authorfullhash}{aa38810153646a3f407b8e96d6f9140f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Title from the resource itself.}
+      \field{isbn}{9781420049961}
+      \field{title}{{Inside the FFT black box : serial and parallel fast Fourier transform algorithms}}
+      \field{year}{2000}
+      \field{pages}{312}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.crcpress.com/Inside-the-FFT-Black-Box-Serial-and-Parallel-Fast-Fourier-Transform-Algorithms/Chu-George/p/book/9780849302701
+      \endverb
+      \verb{url}
+      \verb https://www.crcpress.com/Inside-the-FFT-Black-Box-Serial-and-Parallel-Fast-Fourier-Transform-Algorithms/Chu-George/p/book/9780849302701
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{none/global//global/global}
+    \entry{Smith1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a1e4c9b197870fea6123471fddda3c0e}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {California Technical Pub}%
+      }
+      \strng{namehash}{a1e4c9b197870fea6123471fddda3c0e}
+      \strng{fullhash}{a1e4c9b197870fea6123471fddda3c0e}
+      \strng{bibnamehash}{a1e4c9b197870fea6123471fddda3c0e}
+      \strng{authorbibnamehash}{a1e4c9b197870fea6123471fddda3c0e}
+      \strng{authornamehash}{a1e4c9b197870fea6123471fddda3c0e}
+      \strng{authorfullhash}{a1e4c9b197870fea6123471fddda3c0e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{2nd edition.}
+      \field{isbn}{0966017676}
+      \field{title}{{The scientist and engineer's guide to digital signal processing}}
+      \field{year}{1999}
+    \endentry
+    \entry{Blahut1985}{book}{}
+      \name{author}{2}{}{%
+        {{hash=305e3c59ce24c6e5667bf0e3742b1b79}{%
+           family={Blahut},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=181f4afa3ed1afff979d349b089c6df8}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Pub. Co}%
+      }
+      \strng{namehash}{dead6683ca0ab7d42c60187e93b6b997}
+      \strng{fullhash}{dead6683ca0ab7d42c60187e93b6b997}
+      \strng{bibnamehash}{dead6683ca0ab7d42c60187e93b6b997}
+      \strng{authorbibnamehash}{dead6683ca0ab7d42c60187e93b6b997}
+      \strng{authornamehash}{dead6683ca0ab7d42c60187e93b6b997}
+      \strng{authorfullhash}{dead6683ca0ab7d42c60187e93b6b997}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0201101556}
+      \field{title}{{Fast algorithms for digital signal processing}}
+      \field{year}{1985}
+      \field{pages}{441}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://dl.acm.org/citation.cfm?id=537283
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/citation.cfm?id=537283
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kuo}{book}{}
+      \name{author}{3}{}{%
+        {{hash=7e7ffb42023c388dc4bf528df5d54517}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Sen\bibnamedelimb M.\bibnamedelimi (Sen-Maw)},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim (\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=13d49c4c85b1a70b8d2f076459807b9b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bob\bibnamedelima H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7a3906676032927a583d960c56b607b2}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Wenshun.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \strng{fullhash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \strng{bibnamehash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \strng{authorbibnamehash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \strng{authornamehash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \strng{authorfullhash}{7dfc68cb568b5545455ad5893d71d3aa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Third edition. "Combines both the DSP principles and real-time implementations and applications using the new eZdsp USB Stick, which is very low cost, portable and widely employed at many DSP labs is now used in the new edition"-- Real-Time Digital Signal Processing: Fundamentals, implementations and applications; Contents; Preface; Acknowledgments; 1 Introduction to Real-Time Digital Signal Processing; 1.1 Basic Elements of Real-Time DSP Systems; 1.2 Analog Interface; 1.2.1 Sampling; 1.2.2 Quantization and Encoding; 1.2.3 Smoothing Filters; 1.2.4 Data Converters; 1.3 DSP Hardware; 1.3.1 DSP Hardware Options; 1.3.2 Digital Signal Processors; 1.3.3 Fixed- and Floating-Point Processors; 1.3.4 Real-Time Constraints; 1.4 DSP System Design; 1.4.1 Algorithm Development; 1.4.2 Selection of DSP Hardware. 1.4.3 Software Development1.4.4 Software Development Tools; 1.5 Experiments and Program Examples; 1.5.1 Get Started with CCS and eZdsp; 1.5.2 C File I/O Functions; 1.5.3 User Interface for eZdsp; 1.5.4 Audio Playback Using eZdsp; 1.5.5 Audio Loopback Using eZdsp; Exercises; References; 2 DSP Fundamentals and Implementation Considerations; 2.1 Digital Signals and Systems; 2.1.1 Elementary Digital Signals; 2.1.2 Block Diagram Representation of Digital Systems; 2.2 System Concepts; 2.2.1 LTI Systems; 2.2.2 The z-transform; 2.2.3 Transfer Functions; 2.2.4 Poles and Zeros. 2.2.5 Frequency Responses2.2.6 Discrete Fourier Transform; 2.3 Introduction to Random Variables; 2.3.1 Review of Random Variables; 2.3.2 Operations of Random Variables; 2.4 Fixed-Point Representations and Quantization Effects; 2.4.1 Fixed-Point Formats; 2.4.2 Quantization Errors; 2.4.3 Signal Quantization; 2.4.4 Coefficient Quantization; 2.4.5 Roundoff Noise; 2.4.6 Fixed-Point Toolbox; 2.5 Overflow and Solutions; 2.5.1 Saturation Arithmetic; 2.5.2 Overflow Handling; 2.5.3 Scaling of Signals; 2.5.4 Guard Bits; 2.6 Experiments and Program Examples; 2.6.1 Overflow and Saturation Arithmetic. 2.6.2 Function Approximations2.6.3 Real-Time Signal Generation Using eZdsp; Exercises; References; 3 Design and Implementation of FIR Filters; 3.1 Introduction to FIR Filters; 3.1.1 Filter Characteristics; 3.1.2 Filter Types; 3.1.3 Filter Specifications; 3.1.4 Linear Phase FIR Filters; 3.1.5 Realization of FIR Filters; 3.2 Design of FIR Filters; 3.2.1 Fourier Series Method; 3.2.2 Gibbs Phenomenon; 3.2.3 Window Functions; 3.2.4 Design of FIR Filters Using MATLAB{®}; 3.2.5 Design of FIR Filters Using the FDATool; 3.3 Implementation Considerations; 3.3.1 Quantization Effects in FIR Filters. 3.3.2 MATLAB{®} Implementations3.3.3 Floating-Point C Implementations; 3.3.4 Fixed-Point C Implementations; 3.4 Applications: Interpolation and Decimation Filters; 3.4.1 Interpolation; 3.4.2 Decimation; 3.4.3 Sampling Rate Conversion; 3.4.4 MATLAB{®} Implementations; 3.5 Experiments and Program Examples; 3.5.1 FIR Filtering Using Fixed-Point C; 3.5.2 FIR Filtering Using C55xx Assembly Program; 3.5.3 Symmetric FIR Filtering Using C55xx Assembly Program; 3.5.4 Optimization Using Dual-MAC Architecture; 3.5.5 Real-Time FIR Filtering; 3.5.6 Decimation Using C and Assembly Programs.}
+      \field{isbn}{9781118414323}
+      \field{title}{{Real-time digital signal processing : fundamentals, implementations and applications}}
+      \verb{urlraw}
+      \verb https://www.wiley.com/en-us/Real+Time+Digital+Signal+Processing{\%}3A+Fundamentals{\%}2C+Implementations+and+Applications{\%}2C+3rd+Edition-p-9781118414323
+      \endverb
+      \verb{url}
+      \verb https://www.wiley.com/en-us/Real+Time+Digital+Signal+Processing%7B%5C%%7D3A+Fundamentals%7B%5C%%7D2C+Implementations+and+Applications%7B%5C%%7D2C+3rd+Edition-p-9781118414323
+      \endverb
+    \endentry
+    \entry{Rappaport2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24bb645deea440a58abd088acbbb7291}{%
+           family={Rappaport},
+           familyi={R\bibinitperiod},
+           given={Theodore\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall PTR}%
+      }
+      \strng{namehash}{24bb645deea440a58abd088acbbb7291}
+      \strng{fullhash}{24bb645deea440a58abd088acbbb7291}
+      \strng{bibnamehash}{24bb645deea440a58abd088acbbb7291}
+      \strng{authorbibnamehash}{24bb645deea440a58abd088acbbb7291}
+      \strng{authornamehash}{24bb645deea440a58abd088acbbb7291}
+      \strng{authorfullhash}{24bb645deea440a58abd088acbbb7291}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{2nd ed. Introduction to wireless communication systems -- Modern wireless communication systems -- The cellular concept: system design fundamentals -- Mobile radio propagation: large-scale path loss -- Mobile radio propagation: small-scale fading and multipath -- Modulation techniques for mobile radio -- Equalization, diversity, and channel coding -- Speech coding -- Multiple access techniques for wireless communications -- Wireless networking -- Wireless systems and standards.}
+      \field{isbn}{0130422320}
+      \field{title}{{Wireless communications : principles and practice}}
+      \field{year}{2002}
+      \field{pages}{707}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{6}
+  \datalist[entry]{none/global//global/global}
+    \entry{Marple}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f34a1fabb88b463f02bf53e10aa937aa}{%
+           family={Marple},
+           familyi={M\bibinitperiod},
+           given={S.L.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Comput. Soc}%
+      }
+      \strng{namehash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \strng{fullhash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \strng{bibnamehash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \strng{authorbibnamehash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \strng{authornamehash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \strng{authorfullhash}{f34a1fabb88b463f02bf53e10aa937aa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference Record of the Thirty-First Asilomar Conference on Signals, Systems and Computers (Cat. No.97CB36136)}
+      \field{isbn}{0-8186-8316-3}
+      \field{title}{{Computing the discrete-time 'analytic' signal via FFT}}
+      \field{volume}{2}
+      \field{pages}{1322\bibrangedash 1325}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ACSSC.1997.679118
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/679118/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/679118/
+      \endverb
+    \endentry
+    \entry{Oppenheim1999}{book}{}
+      \name{author}{3}{}{%
+        {{hash=43b53c01c072cfe846e4bb7098bf002e}{%
+           family={Oppenheim},
+           familyi={O\bibinitperiod},
+           given={Alan\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=550f9668977a698fa9ed541b4b5cfe39}{%
+           family={Schafer},
+           familyi={S\bibinitperiod},
+           given={Ronald\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b23120d8fd8892565905a64c1346e2b4}{%
+           family={Buck},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \strng{fullhash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \strng{bibnamehash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \strng{authorbibnamehash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \strng{authornamehash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \strng{authorfullhash}{3c6dcceeb86bacf5714ae0c711281dcf}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{2nd ed. Discrete-time signals and systems -- The z-transform -- Sampling of continuous-time signals -- Transform analysis of linear time-invariant systems -- Structures for discrete-time systems -- Filter design techniques -- The discrete Fourier transform -- Computation of the discrete Fourier transform -- Fourier analysis of signals using the discrete Fourier transform -- Discrete Hilbert transforms.}
+      \field{isbn}{0137549202}
+      \field{title}{{Discrete-time signal processing}}
+      \field{year}{1999}
+      \field{pages}{870}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{7}
+  \datalist[entry]{none/global//global/global}
+    \entry{Chacon14}{book}{}
+      \name{author}{2}{}{%
+        {{hash=8f4ee0c97dee95179ce1e79e846dd298}{%
+           family={Chacon},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=50418136ff59fed99760e32ba5613c51}{%
+           family={Straub},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{fullhash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{bibnamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authorbibnamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authornamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authorfullhash}{1764b95256df68c84d8a593fc2dfa143}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro Git, 2nd Edtion}
+      \field{year}{2014}
+    \endentry
+    \entry{Lodato19}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{day}{4}
+      \field{month}{2}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://marklodato.github.io/visual-git-guide
+      \endverb
+      \verb{url}
+      \verb https://marklodato.github.io/visual-git-guide
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
