@@ -56,7 +56,8 @@ bool IqModulator::runBlock(void) {
 
 	int ready0 = inputSignals[0]->ready();
 	int ready1 = inputSignals[1]->ready();
-	int ready = min(ready0, ready1);
+	int ready2 = inputSignals[2]->ready();
+	int ready = min(min(ready0, ready1), ready2);;
 
 	int space = outputSignals[0]->space();
 	   
@@ -65,10 +66,12 @@ bool IqModulator::runBlock(void) {
 	if (process == 0) return false;
 
 	t_real re, im;
+	t_complex optical;
 	for (int i = 0; i < process; i++) {
 
 		inputSignals[0]->bufferGet(&re);
 		inputSignals[1]->bufferGet(&im);
+		inputSignals[2]->bufferGet(&optical);
 
 		t_complex valueX(re, im);
 		valueX = sqrt(0.5*outputOpticalPower)*valueX;
